@@ -24,3 +24,4 @@ GoCasts/
 GoCasts/**
 
 .DS_Store
+.vscode/
